@@ -1,2 +1,2 @@
-# 100-Days-Of-JS
+# 100-Days-Of-javaScript
  
